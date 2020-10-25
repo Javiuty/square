@@ -8,6 +8,8 @@ const Layout = (props) => {
       <Global
         styles={css`
           :root {
+            --color-primary: #0d2026;
+            --color-secondary: #034f65;
           }
 
           html {
