@@ -1,0 +1,14 @@
+.header {
+  border-bottom: 1px solid darkgray;
+  background-color: #1d1d1d;
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  display: flex;
+}
